@@ -1,4 +1,5 @@
 # CS3099 Group Project Code
+Contributors: Rhona McCracken, Matthew McIlree, Robert Nguyen Van, Scott Thomson, Nina Boothby
 
 ## Commit Message Conventions 
 
